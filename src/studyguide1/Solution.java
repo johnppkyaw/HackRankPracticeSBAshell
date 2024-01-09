@@ -85,6 +85,8 @@ public class Solution{
 	  obj.convert(a);
 	  
 	  obj.displayList();
+
+	  obj.reverseLinkedList();
 	  
 	  int x = rand.nextInt(n);
 	  System.out.print("I will call replace this many times="+x+"\n");
